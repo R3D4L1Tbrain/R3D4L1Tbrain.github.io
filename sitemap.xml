@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/index.html</loc>
          <lastmod>2024-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/test/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/test.html</loc>
          <lastmod>2024-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/blog/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/index.html</loc>
          <lastmod>2024-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/blog/2024/02/05/testpost/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2024/02/05/testpost.html</loc>
          <lastmod>2024-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/blog/archive/2024/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/archive/2024.html</loc>
          <lastmod>2024-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/general/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/general.html</loc>
          <lastmod>2024-05-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
