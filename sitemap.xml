@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://R3D4L1Tbrain.github.io/component-of-a-database-table.gif.html</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://R3D4L1Tbrain.github.io/test.html</loc>
          <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
@@ -116,7 +111,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/cron_jobs.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/custom_shortcuts.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/directories_linux.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/linux.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/linux_commands.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/linux_permissions.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/terminal_shortcuts.html</loc>
          <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -197,6 +222,11 @@
     </url>
     <url>
          <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/WINDOWS/windows.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/WINDOWS/POWERSHELL/powershell.html</loc>
          <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
