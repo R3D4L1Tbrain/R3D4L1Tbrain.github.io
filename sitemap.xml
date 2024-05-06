@@ -1,133 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/index.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/index.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/test.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/test.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/OSI_model.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/OSI_model.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/computer_networks.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/computer_networks.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/ip_address.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/ip_address.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/mac_address.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/mac_address.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/ports.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/ports.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/protocols.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/protocols.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/COMPUTER_NETWORKS/subnetting.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/subnetting.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/cybersecurity.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/switches.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/hacking.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/COMPUTER_NETWORKS/tcp_ip_protocol.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/INFORMATION_ENUMERATION/credentials_security_breaches.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/cybersecurity.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/INFORMATION_ENUMERATION/identifyOS.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/hacking.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/WEB/idors.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/INFORMATION_ENUMERATION/credentials_security_breaches.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/WEB/sql_injection.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/INFORMATION_ENUMERATION/identifyOS.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/TOOLS/burpsuite.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/WEB/idors.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/TOOLS/tools.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/HACKING/WEB/sql_injection.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/CYBER_SECURITY/TOOLS/wireshark.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/TOOLS/burpsuite.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/HARDWARE/hardware.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/TOOLS/tools.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/SOFTWARE/software.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/CYBER_SECURITY/TOOLS/wireshark.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/SOFTWARE/LINUX/linux.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/HARDWARE/hardware.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/SOFTWARE/PROGRAMMING/programming.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/software.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/SOFTWARE/TOOLS/tools.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/LINUX/linux.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/COMPUTER_SCIENCE/SOFTWARE/WINDOWS/windows.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/PROGRAMMING/programming.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/SKILLS/MIND_SKILLS/Sin%20t%C3%ADtulo.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/TOOLS/tools.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://squidfunk.github.io/mkdocs-material/blog/index.html</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://R3D4L1Tbrain.github.io/COMPUTER_SCIENCE/SOFTWARE/WINDOWS/windows.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/SKILLS/MIND_SKILLS/Sin%20t%C3%ADtulo.html</loc>
+         <lastmod>2024-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://R3D4L1Tbrain.github.io/blog/index.html</loc>
+         <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
